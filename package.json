@@ -1,4 +1,22 @@
-"keywords": [
+{
+  "name": "cordova-plugin-referrer",
+  "version": "1.0.0",
+  "description": "Cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-referrer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/videmort/cordova-plugin-referrer.git"
+  },
+  "keywords": [
     "ecosystem:cordova",
-    "cordova-android"
-]
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "homepage": "https://github.com/videmort/cordova-plugin-referrer.git"
+}
